@@ -1,0 +1,30 @@
+#principal {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #75acff;
+  color: white;
+  margin: 50px;
+}
+
+.titulo {
+  flex: auto;
+  margin-left: 40px;
+}
+
+.enlaces {
+  margin-top: 20px;
+  justify-content: space-between;
+  margin-right: 40px;
+}
+
+.subtitulo {
+  flex: auto;
+  margin-left: 160px;
+  margin-top: -20px;
+}
+
+a {
+  margin: 20px;
+  text-decoration: none;
+  color: white;
+}

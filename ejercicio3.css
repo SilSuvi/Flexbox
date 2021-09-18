@@ -1,0 +1,23 @@
+#principal {
+  display: flex;
+  background-color: #e3a0fd;
+  color: #3c7c40;
+}
+
+.caja1 {
+  margin: 20px;
+}
+
+.recomendaciones {
+  background-color: #86d678;
+  color: #ba6cdd;
+  margin: 60px;
+  border-radius: 20px;
+  padding: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+ul {
+  list-style: none;
+}

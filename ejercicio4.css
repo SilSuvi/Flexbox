@@ -1,0 +1,19 @@
+#principal {
+  display: flex;
+  background-color: #bb5e5b;
+  margin: 20%;
+  text-align: center;
+}
+
+.caja1 {
+  margin-left: 5%;
+}
+
+.caja2 {
+  margin-left: 5%;
+}
+
+.caja3 {
+  margin-left: 5%;
+  margin-right: 5%;
+}

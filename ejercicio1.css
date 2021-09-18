@@ -1,0 +1,28 @@
+#principal {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #82bb9b;
+  color: white;
+  margin: 50px;
+}
+
+.titulo {
+  flex: auto;
+  margin-left: 40px;
+}
+
+.enlaces {
+  margin-top: 20px;
+  justify-content: space-between;
+  margin-right: 40px;
+}
+
+a {
+  padding-left: 10px;
+  border-radius: 3px;
+  background-color: white;
+  color: #82bb9b;
+  text-decoration: none;
+  padding: 5px;
+  margin: 5px;
+}
